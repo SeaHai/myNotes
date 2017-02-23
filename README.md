@@ -25,7 +25,7 @@
     + [npm切换来源](node/npm-切换来源.md)
 
 * 其他
-    + [git使用](other/git使用.md)
+    + [git使用](git/git使用.md)
     + [sublime使用](other/sublime-插件.md)
     + [webpack使用](other/webpack-配置.md)
     

@@ -293,7 +293,7 @@ IdentityFile ~/.ssh/github_abc
 * `git log --stat`                                 # 要快速浏览其他协作者提交的更新都作了哪些改动
 * `git log --pretty=format:"%h - %an, %ar : %s"`   # 定制要显示的记录格式
 
-### 命令速查表
+## 命令速查表
 
 ![命令速查表-1](img/git-1.jpg)
 ![命令速查表-6](img/git-6.jpg)
@@ -302,14 +302,14 @@ IdentityFile ~/.ssh/github_abc
 ![命令速查表-4](img/git-4.jpg)
 ![命令速查表-5](img/git-5.jpg)
 
-### 参考链接
+## 参考链接
 
-[git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-[代码合并：Merge、Rebase的选择](https://github.com/geeeeeeeeek/git-recipes/blob/master/sources/%E4%BB%A3%E7%A0%81%E5%90%88%E5%B9%B6Merge%E8%BF%98%E6%98%AFRebase.md)
-[git使用](https://github.com/geeeeeeeeek/git-recipes/tree/master/sources)
-[Git命令详解](http://www.tuicool.com/articles/y6VfQj)
-[Git资源推荐](https://www.zhihu.com/question/38008771/answer/74558769)
-[日常使用 Git 的 19 个建议](http://blog.jobbole.com/96088/)
-[Git 分支模型](http://www.oschina.net/translate/a-successful-git-branching-model)
-[Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
+* [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+* [代码合并：Merge、Rebase的选择](https://github.com/geeeeeeeeek/git-recipes/blob/master/sources/%E4%BB%A3%E7%A0%81%E5%90%88%E5%B9%B6Merge%E8%BF%98%E6%98%AFRebase.md)
+* [git使用](https://github.com/geeeeeeeeek/git-recipes/tree/master/sources)
+* [Git命令详解](http://www.tuicool.com/articles/y6VfQj)
+* [Git资源推荐](https://www.zhihu.com/question/38008771/answer/74558769)
+* [日常使用 Git 的 19 个建议](http://blog.jobbole.com/96088/)
+* [Git 分支模型](http://www.oschina.net/translate/a-successful-git-branching-model)
+* [Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
 
